@@ -18,32 +18,32 @@ const MainComponent = React.createClass({
         </pre>
 
         <h2> 2. Usage </h2>
-        <pre>{"import AdSense from 'react-adsense';\n\n<AdSense.Google\n\tclient='ca-pub-7292810486004926'\n\tslot='7806394673'\n/>"}
+        <pre>{"import AdSense from 'react-adsense';\n\n<AdSense.Google\n\tclient='ca-pub-2120139198713104'\n\tslot='2522629636'\n/>"}
 
         </pre>
 
         <h2> 3. default props </h2>
-        <AdSense.Google client='ca-pub-7292810486004926'
-                        slot='7806394673' />
+        <AdSense.Google client='ca-pub-2120139198713104'
+                        slot='2522629636' />
 
         <h2> 4. in-article layout </h2>
         <AdSense.Google
-            client='ca-pub-7292810486004926'
-            slot='7806394673'
+            client='ca-pub-2120139198713104'
+            slot='2522629636'
             layout='in-article'
         />
 
         <h2> 5. full-config Demo </h2>
         <AdSense.Google
-            client='ca-pub-7292810486004926'
-            slot='7806394673'
+            client='ca-pub-2120139198713104'
+            slot='2522629636'
             style={{width: 500, height: 300, float: 'left'}}
             layout='in-article'
             format=''
         />
         <AdSense.Google
-            client='ca-pub-7292810486004926'
-            slot='7806394673'
+            client='ca-pub-2120139198713104'
+            slot='2522629636'
             style={{width: 500, height: 300, float: 'left'}}
             layout='in-article'
             format=''
